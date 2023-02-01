@@ -1,0 +1,2 @@
+# awscli
+aws cli + dind
